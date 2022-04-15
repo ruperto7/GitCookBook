@@ -1,6 +1,8 @@
 # GitCookBook
 GitCookBook is a guide with three ChapterSets for beginners, for mid-level and for advances Git users
 
+line 4x needs to be removed later
+
   * On 13-April-2022, this repository was created as a learning collaboration for all interested students and developers.
 
   * **To access Slack.com**, please use the link below:
